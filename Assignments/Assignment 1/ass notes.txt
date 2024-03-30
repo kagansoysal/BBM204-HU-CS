@@ -1,0 +1,10 @@
+- Java 11 ile aç projeyi ve xchart.jar ı projeye ekle
+- memory sıkıntısı olursa heap memeory i ayarlardan arttır
+- Çalışma süresini ölçerken sadece sort edilen kısmın süresini ölçmeye dikkat et.
+- n tane satır için veri setinin ilk n tane satırını alıcaz
+- searchlerin analizinde milisecond yerine nanosecond kullanıcaz.
+- search algoritmalarında sorted arrayleri test ederken sort etme bi daha. Önceki testlerde zaten sort edilmişleri kullan
+- space complexity analiz ederken kullanılan genel memory i umursamıyoruz. Kullanılan additonal memory e bakıcaz.
+- 3.4.3 İLK PARAGRAF SON CÜMLEYİ ANLAMADIM
+
+- sorted arrayleri kullanmak için hepsini arraylist yapmam gerekebilir bütün methodları
