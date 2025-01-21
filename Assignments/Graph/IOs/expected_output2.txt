@@ -1,0 +1,23 @@
+### MISSION GENESIS START ###
+3 molecular structures have been discovered in typical humans.
+Molecules in Molecular Structure 1: [M46, M88, M145]
+Molecules in Molecular Structure 2: [M49, M518, M615, M819]
+Molecules in Molecular Structure 3: [M131, M191, M292, M532, M564]
+3 molecular structures have been discovered in Vitales individuals.
+Molecules in Molecular Structure 1: [M13, M14, M15]
+Molecules in Molecular Structure 2: [M49, M518, M615, M819]
+Molecules in Molecular Structure 3: [M4, M12, M532, M564]
+Molecular structures unique to Vitales individuals:
+[M13, M14, M15]
+[M4, M12, M532, M564]
+### MISSION GENESIS END ###
+### MISSION SYNTHESIS START ###
+Typical human molecules selected for synthesis: [M145, M49, M292]
+Vitales molecules selected for synthesis: [M13, M12]
+Synthesizing the serum...
+Forming a bond between M13 - M145 with strength 21.00
+Forming a bond between M49 - M145 with strength 22.00
+Forming a bond between M145 - M292 with strength 24.00
+Forming a bond between M12 - M145 with strength 24.00
+The total serum bond strength is 91.00
+### MISSION SYNTHESIS END ###
